@@ -1,0 +1,19 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: rgb(247, 196, 204);
+}
+#about {
+  background-color: rgb(247, 196, 204);
+}
+#certificates {
+  background-color: rgb(247, 196, 204);
+}
+#project {
+  background-color: rgb(247, 196, 204);
+}
+section {
+  padding-top: 4rem;
+}
